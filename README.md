@@ -1,4 +1,8 @@
-# CS519.M11
-# Nguyễn Đình Bình An - 19521178 - CS519.M11 
-Lớp sinh hoạt: KHTN2019
+# CS519.M11 - ACC Team
+# Thành viên
+
+* Nguyễn Đình Bình An - 19521178
+* Võ Đăng Châu - 19521282
+* Nguyễn Văn Chính - 19521287
+
 
