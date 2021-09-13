@@ -1,8 +1,10 @@
 # CS519.M11 - ACC Team
-# Thành viên
 
-* Nguyễn Đình Bình An - 19521178
-* Võ Đăng Châu - 19521282
-* Nguyễn Văn Chính - 19521287
+## Thành viên
 
+| ID | Name | Role |
+| -- | --- | -- |
+| 19521178  | Nguyễn Đình Bình An | Member |
+| 19521282 | Võ Đăng Châu | Member |
+| 19521287 | Nguyễn Văn Chính | Member |
 
