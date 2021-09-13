@@ -1,5 +1,7 @@
 # CS519.M11 - ACC Team
 
+![Our's logo](CS519.M11/assets/images/Logo-CS519.png)
+
 ## Thành viên
 
 | ID | Name | Role |
